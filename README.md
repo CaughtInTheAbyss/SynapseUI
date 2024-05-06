@@ -44,9 +44,9 @@ Virus total: https://www.virustotal.com/gui/file/504700c53fd06a0c56b870553138435
 
 # License
 You are free to use, copy, modify, merge, publish and distribute this open source project.
-s
+
 # Credits
-asunax#0146 
+asunax
 
 Synapse X Developers (sxlib).
 

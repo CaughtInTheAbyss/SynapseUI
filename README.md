@@ -19,7 +19,7 @@ A custom Synapse X user interface with the following changes:
 # Installation
 The installation is super simple. 
 
-Simply head over to the ["Releases"](https://github.com/asunax-aaa/SynapseUI/releases) tab and download the latest SynapseUI.exe from under the Assets.
+Simply head over to the ["Releases"] tab and download the latest SynapseUI.exe from under the Assets.
 
 Once downloaded, simply drag and drop this into your already pre-existing Synapse X folder and open it.
 
@@ -44,14 +44,9 @@ Virus total: https://www.virustotal.com/gui/file/504700c53fd06a0c56b870553138435
 
 # License
 You are free to use, copy, modify, merge, publish and distribute this open source project.
-
-Under one condition, that you reference any used "code" or assets back to it's original source (https://github.com/asunax-aaa/SynapseUI).
-
-You do not need to provide a copy of this project, but only a reference back to the source and the owner (asunax/asunax#5833).
-
-
+s
 # Credits
-asunax#0146 (303256002113961996) 
+asunax#0146 
 
 Synapse X Developers (sxlib).
 
